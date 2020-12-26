@@ -1,4 +1,4 @@
-package original;
+package adapter;
 
 public class StaffModel {
     private String name;

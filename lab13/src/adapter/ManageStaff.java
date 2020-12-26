@@ -1,4 +1,4 @@
-package original;
+package adapter;
 
 import java.util.List;
 import java.util.Scanner;

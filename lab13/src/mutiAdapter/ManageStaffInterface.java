@@ -1,4 +1,4 @@
-package original;
+package mutiAdapter;
 
 import java.util.List;
 

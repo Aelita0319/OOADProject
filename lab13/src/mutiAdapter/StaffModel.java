@@ -1,4 +1,4 @@
-package original;
+package mutiAdapter;
 
 public class StaffModel {
     private String name;

@@ -1,4 +1,4 @@
-package original;
+package mutiAdapter;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -56,7 +56,7 @@ public class FileOperate implements FileOperateInterfaceV1 {
                 return;
             }
             //todo: change your file path
-            FileWriter f = new FileWriter("lab13/src/original/staff.txt");
+            FileWriter f = new FileWriter("lab13/src/mutiAdapter/staff.txt");
             BufferedWriter bufw = new BufferedWriter(f);
             String str = "";
             for (StaffModel s : list) {
