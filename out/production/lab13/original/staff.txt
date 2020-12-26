@@ -1,0 +1,9 @@
+Joseph, SIFAKIS:Distinguished Professor,Room 1012, Building A7, Nanshan i-Park,joseph.sifakis@univ-grenoble-alpes.fr,http://www-verimag.imag.fr/~sifakis/
+YAO, Xin:Chair Professor, Department Head,Room 908, Building A7, Nanshan i-Park,xiny@sustech.edu.cn,http://cse.sustech.edu.cn/faculty/~xiny
+YANG, Shuanghua:Chair Professor,Room 1004, Building A7, Nanshan i-Park,yangsh@sustech.edu.cn,http://faculty.sustech.edu.cn/yangsh/
+THEODOROPOULOS, Georgios:Chair Professor,Room 1010, Building A7, Nanshan i-Park,georgios@sustech.edu.cn,http://cse.sustech.edu.cn/faculty/~georgios
+SHI, Yuhui:Chair Professor,Room 1011, Building A7, Nanshan i-Park,shiyh@sustech.edu.cn,http://faculty.sustech.edu.cn/shiyh/
+ISHIBUCHI, Hisao:Chair Professor,Room 902, Building A7, Nanshan i-Park,hisao@sustech.edu.cn,http://cse.sustech.edu.cn/faculty/~hisao
+LIU, Jiang:Professor,Room 403,Building 10 Innovation Park,liuj@sustech.edu.cn,http://cse.sustech.edu.cn/faculty/~liuj
+TANG, Ke:Professor,Room 905, Building A7, Nanshan i-Park,tangk3@sustech.edu.cn,http://cse.sustech.edu.cn/faculty/~tangk
+ZHANG, Jianguo:Professor,Room 404,Building 10 Innovation Park,zhangjg@sustech.edu.cn,http://faculty.sustech.edu.cn/zhangjg/

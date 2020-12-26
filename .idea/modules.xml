@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOADProject.iml" filepath="$PROJECT_DIR$/OOADProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10/lab10.iml" filepath="$PROJECT_DIR$/lab10/lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab13/lab13.iml" filepath="$PROJECT_DIR$/lab13/lab13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_task1/lab9_task1.iml" filepath="$PROJECT_DIR$/lab9_task1/lab9_task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9_task2/lab9_task2.iml" filepath="$PROJECT_DIR$/lab9_task2/lab9_task2.iml" />
+    </modules>
+  </component>
+</project>
