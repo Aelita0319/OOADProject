@@ -1,7 +1,7 @@
 package refactoring;
 
 class Rental {
-    private final Movie movie = new Movie("movie_title", Movie.REGULAR);
+    final Movie movie = new Movie("movie_title", Movie.REGULAR);
 
     private int _daysRented;
     public Rental(String title, int priceCode, DateRange dateRange) {
@@ -19,5 +19,13 @@ class Rental {
     
     public int getPriceCode() {
         return movie.getPriceCode();
+    }
+
+    public double getCharge() {
+        return movie.getCharge(_daysRented);
+    }
+
+    public int getFrequentRenterPoints(){
+        return movie.getFrequentRenterPoints(_daysRented);
     }
 }
